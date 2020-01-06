@@ -1,6 +1,4 @@
 # XYZ Reader
 [http://xcz423844553.github.io/xyzReader](http://xcz423844553.github.io/xyzReader)
 
-## Demo
-
-![xyzReader Demo](./demo.gif)
+![Demo](./demo.gif)
