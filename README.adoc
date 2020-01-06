@@ -1,3 +1,6 @@
-= XYZ Reader Starter Code
+# XYZ Reader
+[http://xcz423844553.github.io/xyzReader](http://xcz423844553.github.io/xyzReader)
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+## Demo
+
+![xyzReader Demo](./demo.gif)
